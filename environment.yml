@@ -5,13 +5,12 @@ dependencies:
   - matplotlib
   - scipy
   - statsmodels
-  - pmdarima
   - plotly
-  - chart_studio
   - scikit-learn
   - fbprophet
   - pip:
     - beautifulsoup4==4.8.1
     - lxml==4.4.1 
+    - pmdarima==1.4.0
 
   
