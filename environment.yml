@@ -8,8 +8,7 @@ dependencies:
   - pmdarima
   - plotly
   - chart_studio
-  - datetime
-  - sklearn
+  - scikit-learn
   - fbprophet
   - pip:
     - beautifulsoup4==4.8.1
