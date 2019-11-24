@@ -1,7 +1,0 @@
-name: climate
-dependencies:
-  - numpy
-  - pandas
-  - pip:
-    - beautifulsoup4==4.8.1
-    - lxml==4.4.1 
